@@ -7,4 +7,10 @@ public class Sample {
 		int c = a + b;
 		System.out.println("Sum : " + c);
 	}
+	
+	public static void main(String[] args) {
+		
+		Sample s = new Sample();
+		s.add(11, 22);
+	}
 }
