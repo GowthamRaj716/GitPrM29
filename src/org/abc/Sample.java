@@ -12,5 +12,6 @@ public class Sample {
 		
 		Sample s = new Sample();
 		s.add(11, 22);
+		s.add(22, 55);
 	}
 }
